@@ -1,2 +1,1 @@
-# Main
-My main repository
+# В общем, закончил с Data Science - пошёл в свободное плавание.
